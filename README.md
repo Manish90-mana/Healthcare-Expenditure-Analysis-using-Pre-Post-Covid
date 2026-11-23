@@ -33,11 +33,19 @@ Official dataset source: https://meps.ahrq.gov/
 
 ## Technologies Used
 
-- **Programming:** Python
-- **Data Analysis:** Pandas, NumPy
+### Technologies & Tools Used
+
+- **Programming Language:** Python
+- **Data Manipulation & Analysis:** Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, Random Forest
-- **Development:** Jupyter Notebook / Google Colab
+- **Statistical Analysis:** Descriptive Statistics, Exploratory Data Analysis (EDA), Correlation Analysis
+- **Data Preprocessing:** Data Cleaning, Missing Value Handling, Data Transformation, Feature Engineering
+- **Machine Learning:** Scikit-learn, Random Forest Classifier, Predictive Modeling
+- **Model Evaluation:** Accuracy, Precision, Recall, F1-Score, Confusion Matrix
+- **Chatbot Development:** Python, Rule-Based Eligibility Logic
+- **Development Environment:** Jupyter Notebook, Google Colab
+- **Version Control:** Git, GitHub
+- **Data Format:** CSV, Structured Healthcare Datasets
 
 ## Methodology
 
